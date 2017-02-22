@@ -1,0 +1,10 @@
+<li role="presentation" class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                            Clientes <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li>@Html.ActionLink("Listagem", "Index", "Cliente")</li>
+                            <li>@Html.ActionLink("Cadastrar", "Inserir", "Cliente")</li>
+                            <li>@Html.ActionLink("Consultar", "Consultar", "Cliente")</li>
+                        </ul>
+                    </li>

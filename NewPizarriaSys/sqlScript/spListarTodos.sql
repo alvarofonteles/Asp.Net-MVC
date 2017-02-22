@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE spListarTodos
+AS
+BEGIN
+	SELECT * FROM tblCliente
+END

@@ -1,0 +1,6 @@
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.AcessoDados\bin\Debug\NewPizarriaSys.AcessoDados.dll.config
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.AcessoDados\bin\Debug\NewPizarriaSys.AcessoDados.dll
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.AcessoDados\bin\Debug\NewPizarriaSys.AcessoDados.pdb
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.AcessoDados\obj\Debug\NewPizarriaSys.AcessoDados.dll
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.AcessoDados\obj\Debug\NewPizarriaSys.AcessoDados.pdb
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.AcessoDados\obj\Debug\NewPizarriaSys.AcessoDados.csprojResolveAssemblyReference.cache

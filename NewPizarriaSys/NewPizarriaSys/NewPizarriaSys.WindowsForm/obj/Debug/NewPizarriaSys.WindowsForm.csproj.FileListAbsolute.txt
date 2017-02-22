@@ -1,0 +1,15 @@
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\bin\Debug\NewPizarriaSys.WindowsForm.exe.config
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\bin\Debug\NewPizarriaSys.WindowsForm.exe
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\bin\Debug\NewPizarriaSys.WindowsForm.pdb
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\bin\Debug\NewPizarriaSys.AcessoDados.dll
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\bin\Debug\NewPizarriaSys.Dominio.dll
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\bin\Debug\NewPizarriaSys.AcessoDados.pdb
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\bin\Debug\NewPizarriaSys.Dominio.pdb
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\obj\Debug\NewPizarriaSys.WindowsForm.csprojResolveAssemblyReference.cache
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\obj\Debug\NewPizarriaSys.WindowsForm.FrmCadastroCliente.resources
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\obj\Debug\NewPizarriaSys.WindowsForm.FrmConsultaCliente.resources
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\obj\Debug\NewPizarriaSys.WindowsForm.FrmPrincipal.resources
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\obj\Debug\NewPizarriaSys.WindowsForm.Properties.Resources.resources
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\obj\Debug\NewPizarriaSys.WindowsForm.csproj.GenerateResource.Cache
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\obj\Debug\NewPizarriaSys.WindowsForm.exe
+E:\Cursos C#(Sharp)\Curso Asp Net MVC\Projects\NewPizarriaSys\NewPizarriaSys.WindowsForm\obj\Debug\NewPizarriaSys.WindowsForm.pdb

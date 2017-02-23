@@ -1,0 +1,15 @@
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info.DAO\bin\Debug\Info.DAO.dll
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info.DAO\bin\Debug\Info.DAO.pdb
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info.DAO\obj\Debug\Info.DAO.dll
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info.DAO\obj\Debug\Info.DAO.pdb
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info.DAO\bin\Debug\Info.DAO.dll.config
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info.DAO\bin\Debug\Info.DAO.dll.config
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info.DAO\bin\Debug\Info.DAO.dll
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info.DAO\bin\Debug\Info.DAO.pdb
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info.DAO\obj\Debug\Info.DAO.dll
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info.DAO\obj\Debug\Info.DAO.pdb
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info.DAO\bin\Debug\Info.DAO.dll.config
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info.DAO\bin\Debug\Info.DAO.dll
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info.DAO\bin\Debug\Info.DAO.pdb
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info.DAO\obj\Debug\Info.DAO.dll
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info.DAO\obj\Debug\Info.DAO.pdb

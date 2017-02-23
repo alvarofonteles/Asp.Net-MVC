@@ -1,0 +1,58 @@
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\bin\Debug\Info.exe.config
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\bin\Debug\Info.exe
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\bin\Debug\Info.pdb
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\bin\Debug\Info.DAO.dll
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\bin\Debug\Info.DAO.pdb
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\obj\Debug\Info.FrmCategoria.resources
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\obj\Debug\Info.FrmPrincipal.resources
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\obj\Debug\Info.FrmProduto.resources
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\obj\Debug\Info.FrmProdutoPorCategoria.resources
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\obj\Debug\Info.Properties.Resources.resources
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\obj\Debug\Info.csproj.GenerateResource.Cache
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\obj\Debug\Info.exe
+C:\Users\Alvaro\Documents\Visual Studio 2012\Projects\Info\Info\obj\Debug\Info.pdb
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info\obj\Debug\Info.FrmPessoaFisica.resources
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info\obj\Debug\Info.FrmVenda.resources
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info\obj\Debug\Info.FrmLogin.resources
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info\obj\Debug\Info.FrmCadastroUsuario.resources
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info\obj\Debug\Info.FrmRelatorioProdutos.resources
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info\obj\Debug\Info.FrmListaCategorias.resources
+C:\Users\Alvaro\documents\visual studio 2012\Projects\Info\Info\obj\Debug\Info.FrmRelatorioProdutoPorCategorias.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\bin\Debug\Info.exe.config
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\bin\Debug\Info.exe
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\bin\Debug\Info.pdb
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\bin\Debug\Info.DAO.dll
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\bin\Debug\Info.DAO.pdb
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmCadastroUsuario.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmCategoria.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmListaCategorias.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmLogin.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmPessoaFisica.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmPrincipal.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmProduto.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmProdutoPorCategoria.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmRelatorioProdutoPorCategorias.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmRelatorioProdutos.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.FrmVenda.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.Properties.Resources.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.csproj.GenerateResource.Cache
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.exe
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info\Info\obj\Debug\Info.pdb
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\bin\Debug\Info.exe.config
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\bin\Debug\Info.exe
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\bin\Debug\Info.pdb
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\bin\Debug\Info.DAO.dll
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\bin\Debug\Info.DAO.pdb
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.FrmCategoria.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.FrmPessoaFisica.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.FrmPrincipal.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.FrmProduto.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.FrmProdutoPorCategoria.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.FrmVenda.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.Properties.Resources.resources
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.csproj.GenerateResource.Cache
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.exe
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.pdb
+E:\Cursos C#(Sharp)\Denis Lima C#\Projects\Info_prova\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache

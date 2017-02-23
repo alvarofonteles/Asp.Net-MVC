@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Aluno]
+(
+	[AlunoId] INT NOT NULL 
+	CONSTRAINT PK_ALUNO	PRIMARY KEY IDENTITY, 
+    [Nome] VARCHAR(75) NULL, 
+    [Mae] VARCHAR(75) NULL, 
+    [DataNascimento] DATE NULL
+)

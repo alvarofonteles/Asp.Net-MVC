@@ -1,0 +1,220 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+
+namespace Ferramentas
+{
+    public class Validacao
+    {
+        //Valida CPF
+        public static bool IsCpf(string cpf)
+        {
+            int[] multiplicador1 = new int[9] { 10, 9, 8, 7, 6, 5, 4, 3, 2 };
+            int[] multiplicador2 = new int[10] { 11, 10, 9, 8, 7, 6, 5, 4, 3, 2 };
+            int soma, resto;
+            string tempCpf, digito;
+
+            cpf = cpf.Trim();
+            cpf = cpf.Replace(".", "").Replace("-", "").Replace(" ", "");
+
+            if (cpf.Length != 11)
+            {
+                return false;
+            }
+            else
+            {
+                tempCpf = cpf.Substring(0, 9);
+
+                soma = 0;
+                for (int i = 0; i < 9; i++)
+                    soma += int.Parse(tempCpf[i].ToString()) * multiplicador1[i];
+
+                resto = soma % 11;
+                if (resto < 2)
+                    resto = 0;
+                else
+                    resto = 11 - resto;
+
+                digito = resto.ToString();
+                tempCpf = tempCpf + digito;
+
+                soma = 0;
+                for (int i = 0; i < 10; i++)
+                    soma += int.Parse(tempCpf[i].ToString()) * multiplicador2[i];
+
+                resto = soma % 11;
+                if (resto < 2)
+                    resto = 0;
+                else
+                    resto = 11 - resto;
+
+                digito = digito + resto.ToString();
+                return cpf.EndsWith(digito);
+            }
+        }
+
+        //************************************************************************************
+
+        //Valida  CNPJ
+        public static bool IsCnpj(string cnpj)
+        {
+            int[] multiplicador1 = new int[12] { 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
+            int[] multiplicador2 = new int[13] { 6, 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
+            int soma, resto;
+            string digito, tempCnpj;
+
+            cnpj = cnpj.Trim();
+            cnpj = cnpj.Replace(".", "").Replace("-", "").Replace("/", "").Replace(" ", "");
+
+            if (cnpj.Length != 14)
+            {
+                return false;
+            }
+            else
+            {
+                tempCnpj = cnpj.Substring(0, 12);
+
+                soma = 0;
+                for (int i = 0; i < 12; i++)
+                    soma += int.Parse(tempCnpj[i].ToString()) * multiplicador1[i];
+
+                resto = (soma % 11);
+                if (resto < 2)
+                    resto = 0;
+                else
+                    resto = 11 - resto;
+
+                digito = resto.ToString();
+                tempCnpj = tempCnpj + digito;
+
+                soma = 0;
+                for (int i = 0; i < 13; i++)
+                    soma += int.Parse(tempCnpj[i].ToString()) * multiplicador2[i];
+
+                resto = (soma % 11);
+                if (resto < 2)
+                    resto = 0;
+                else
+                    resto = 11 - resto;
+
+                digito = digito + resto.ToString();
+                return cnpj.EndsWith(digito);
+            }
+        }
+
+        //Valida  E-mail
+        public static bool ValidaEmail(String email)
+        {
+            string strRegex = "^([a-zA-Z0-9_\\-\\.]+)@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]"
+                + "{1,3}\\.)|(([a-zA-Z0-9\\-]+\\.)+))([a-zA-Z]{2,4}|[0,9]{1,3})(\\]?)$";
+            Regex re = new Regex(strRegex);
+            
+            return !re.IsMatch(email);
+        }
+
+        //Valida  Endereço
+        static public String cep = "";
+        static public String cidade = "";
+        static public String estado = "";
+        static public String endereco = "";
+        static public String bairro = "";
+        
+        public static Boolean verificaCEP(String CEP)
+        {
+            bool flag = true;
+            try
+            {
+                DataSet ds = new DataSet();
+                string xml = "http://cep.republicavirtual.com.br/web_cep.php?cep=@cep&formato=xml".Replace("@cep", CEP);
+                ds.ReadXml(xml);
+                endereco = ds.Tables[0].Rows[0]["logradouro"].ToString();
+                bairro = ds.Tables[0].Rows[0]["bairro"].ToString();
+                cidade = ds.Tables[0].Rows[0]["cidade"].ToString();
+                estado = ds.Tables[0].Rows[0]["uf"].ToString();
+                cep = CEP;
+
+                if (endereco == "" && bairro == "" && cidade == "" && estado == "")
+                {
+                    flag = false;
+                }
+            }
+            catch (Exception)
+            {
+                endereco = "";
+                bairro = "";
+                cidade = "";
+                estado = "";
+                cep = "";
+                throw new Exception("Sem acesso a Internet.");
+            }
+            return flag;
+        }
+
+        public static void BackupDataBase(String ConnString, string nomeDB, string backupFile)
+        {
+            //criou a conexao
+            SqlConnection cn = new SqlConnection(ConnString);
+            //criou o comando
+            SqlCommand cm = new SqlCommand();
+            cm.Connection = cn;
+            cm.CommandText = "BACKUP DATABASE [" + nomeDB + "] TO DISK = '" + backupFile + "'";
+            try
+            {
+                cn.Open();
+                cm.ExecuteNonQuery();
+            }
+            catch (Exception erro)
+            {
+                throw new Exception(erro.Message);
+            }
+            finally
+            {
+                cn.Close();
+            }
+        }
+
+        public static void RestauraDatabase(String ConnString, string nomeDB, string backupFile)
+        {
+            //criou a conexao
+            SqlConnection con = new SqlConnection(ConnString);
+            //limpa a conexao
+            SqlConnection.ClearAllPools();
+            con.Open();
+
+            int iReturn = 0;
+
+            // Se Banco não existir é criado.
+            string strCommand = string.Format("SET NOCOUNT OFF; SELECT COUNT(*) FROM master.dbo.sysdatabases where name=\'{0}\'", nomeDB);
+            using (SqlCommand sqlCmd = new SqlCommand(strCommand, con))
+            {
+                iReturn = Convert.ToInt32(sqlCmd.ExecuteScalar());
+            }
+            if (iReturn == 0)
+            {
+                SqlCommand command = con.CreateCommand();
+                command.CommandText = "CREATE DATABASE " + nomeDB;
+                command.ExecuteNonQuery();
+            }
+            //criou o comando
+            string Restore = @"RESTORE Database [" + nomeDB + "] FROM DISK = N'" + backupFile + @"' WITH  FILE = 1,  NOUNLOAD,  REPLACE,  STATS = 10";
+            SqlCommand RestoreCmd = new SqlCommand(Restore, con);
+            try
+            {
+                RestoreCmd.ExecuteNonQuery();
+            }
+            catch (Exception erro)
+            {
+                throw new Exception(erro.Message);
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
+    }
+}

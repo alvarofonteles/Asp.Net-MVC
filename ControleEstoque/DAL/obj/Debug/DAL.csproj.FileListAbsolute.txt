@@ -1,0 +1,7 @@
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\DAL\bin\Debug\DAL.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\DAL\bin\Debug\DAL.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\DAL\bin\Debug\Modelo.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\DAL\bin\Debug\Modelo.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\DAL\obj\Debug\DAL.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\DAL\obj\Debug\DAL.pdb

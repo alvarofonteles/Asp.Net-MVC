@@ -1,0 +1,4 @@
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Dominio\bin\Debug\NewTISelvagem.Dominio.dll
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Dominio\bin\Debug\NewTISelvagem.Dominio.pdb
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Dominio\obj\Debug\NewTISelvagem.Dominio.dll
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Dominio\obj\Debug\NewTISelvagem.Dominio.pdb

@@ -1,0 +1,7 @@
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Repositorio\bin\Debug\NewTISelvagem.Repositorio.dll
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Repositorio\bin\Debug\NewTISelvagem.Repositorio.pdb
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Repositorio\bin\Debug\NewTISelvagem.Dominio.dll
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Repositorio\bin\Debug\NewTISelvagem.Dominio.pdb
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Repositorio\obj\Debug\NewTISelvagem.RepositorioADO.csprojResolveAssemblyReference.cache
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Repositorio\obj\Debug\NewTISelvagem.Repositorio.dll
+E:\Cursos C#(Sharp)\Curso ASP.Net MVC\Projects\NewTISelvagem\NewTISelvagem.Repositorio\obj\Debug\NewTISelvagem.Repositorio.pdb

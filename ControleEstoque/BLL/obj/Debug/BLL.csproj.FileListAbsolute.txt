@@ -1,0 +1,11 @@
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\bin\Debug\BLL.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\bin\Debug\BLL.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\bin\Debug\DAL.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\bin\Debug\Ferramentas.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\bin\Debug\Modelo.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\bin\Debug\DAL.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\bin\Debug\Ferramentas.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\bin\Debug\Modelo.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\obj\Debug\BLL.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\BLL\obj\Debug\BLL.pdb

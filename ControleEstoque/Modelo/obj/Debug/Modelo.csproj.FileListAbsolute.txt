@@ -1,0 +1,5 @@
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Modelo\bin\Debug\Modelo.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Modelo\bin\Debug\Modelo.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Modelo\obj\Debug\Modelo.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Modelo\obj\Debug\Modelo.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

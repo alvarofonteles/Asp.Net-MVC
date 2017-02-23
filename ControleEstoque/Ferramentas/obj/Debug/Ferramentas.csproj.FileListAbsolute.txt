@@ -1,0 +1,5 @@
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.pdb
+E:\Cursos C#(Sharp)\Controle de Estoque - Danilo Filitto\Projects\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
